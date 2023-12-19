@@ -1,6 +1,6 @@
+<?php require("tableshow.php"); ?>
 <div class="nav2">
-    <p>Design by <a
-            href="http://www.mobifreaks.com">Mobifreaks.com</a></p>
+    <p>Design by <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Здесь какая то ссылка.</a></p>
 </div>
 </body>
 </html>
